@@ -1,0 +1,20 @@
+<nav>
+  <ul class="header__list">
+    <!-- <li><a href="{{ '/symposium' | prepend: site.baseurl }}" {% if page.url == {{ '/symposium' | prepend: site.baseurl }} %}style="color: white;"{% endif %}>2020 Symposium</a></li> -->
+    <li><a href="https://www.biblio.com/bookstore/bound-together-bookstore-san-francisco" target="_blank">Online Store</a></li>
+    <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+    <li><a href="{{ '/contact' | prepend: site.baseurl }}">Contact</a></li>
+  </ul>
+</nav>
+
+<!--  <nav>
+    <ul class="header__list">
+     {% for node in site.pages %}
+        {% if page.url == node.url %}
+          <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+        {% else %}
+          <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+</nav> -->

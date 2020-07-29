@@ -1,0 +1,71 @@
+# Site/SEO settings
+# host: 0.0.0.0
+email: aph82@cornell.edu
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics: 
+
+name: Bound Together Bookstore Website
+title: Home
+description: >
+  Society of Conservation Biology Website
+url: http://avephill.github.io
+
+# default_img: /assets/images/seo.jpg
+social:
+  # - name: twitter
+    # url: https://twitter.com/avephill
+  - name: instagram
+    url: https://www.instagram.com/boundtogetherbookssf/
+  # - name: github
+    # url: https://github.com/avephill
+
+# Contact settings
+contact_img: /assets/images/placeholder-28.jpg
+
+
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts: 
+      - 'tag.html'
+    title: 'Howdy Do'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor

@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a"
+			],
+			[
+				"dat",
+				"datetimes"
+			],
+			[
+				"dMAT_color",
+				"dMAT_color_mapper"
+			],
+			[
+				"blank_json",
+				"blank_json_data"
+			],
+			[
+				"blank",
+				"blank_json_data"
+			],
+			[
+				"blank_js",
+				"blank_json_data"
+			],
+			[
+				"alt_ge",
+				"alt_geosource"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"checbo",
+				"checkboxHandler"
+			],
+			[
+				"alt",
+				"alt_geosource"
+			],
+			[
+				"alt_",
+				"alt_geosource_json"
+			],
+			[
+				"temp",
+				"temp_geosource_json"
+			],
+			[
+				"column",
+				"ColumnDataSource"
+			],
+			[
+				"Δ",
+				"ΔMAT"
+			],
+			[
+				"shrub",
+				"shrub_geosource_backup"
+			],
+			[
+				"shrub_geo",
+				"shrub_geosource"
+			],
+			[
+				"times",
+				"timestamp"
+			],
+			[
+				"Dat",
+				"DataFrame"
+			],
+			[
+				"arrowb",
+				"arrowbuttsx"
+			],
+			[
+				"xs",
+				"xs"
+			],
+			[
+				"arrowhead",
+				"arrowhead_width"
+			],
+			[
+				"dis",
+				"distA"
+			],
+			[
+				"is",
+				"is_writable"
+			],
+			[
+				"PDF",
+				"PDF_DIR"
+			],
+			[
+				"pap",
+				"paperid"
+			],
+			[
+				"downl",
+				"download"
+			],
+			[
+				"alpha",
+				"alpha_composite"
+			],
+			[
+				"Capi",
+				"CapitalBalance"
+			],
+			[
+				"T",
+				"TravisBalance"
+			],
+			[
+				"o",
+				"OLDtbalcount"
+			],
+			[
+				"email",
+				"emailcounter"
+			],
+			[
+				"late",
+				"latest_email_id"
+			],
+			[
+				"relevan",
+				"relevantnotes"
+			],
+			[
+				"personal",
+				"personalideas"
+			],
+			[
+				"rel",
+				"relevantnotes_rns"
+			],
+			[
+				"perso",
+				"personalideas_pis"
+			],
+			[
+				"persona",
+				"personalideas_pi"
+			],
+			[
+				"futu",
+				"futurework_fws"
+			],
+			[
+				"future",
+				"futurework_fw"
+			],
+			[
+				"fw",
+				"fw"
+			],
+			[
+				"pers",
+				"personalideas_pi"
+			],
+			[
+				"curren",
+				"currentwork_cw"
+			],
+			[
+				"add",
+				"addTags"
+			],
+			[
+				"addFields",
+				"addFieldspi"
+			],
+			[
+				"rele",
+				"relevantnotes_rn"
+			],
+			[
+				"curre",
+				"currentwork_cw"
+			],
+			[
+				"tags",
+				"tags_tag"
+			],
+			[
+				"relv",
+				"relevantnotes_rn"
+			],
+			[
+				"fut",
+				"futurework_fws"
+			],
+			[
+				"curr",
+				"currentwork_cw"
+			],
+			[
+				"cur",
+				"currentwork_cw"
+			],
+			[
+				"papes",
+				"papes_citation"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"arr",
+				"array_filter"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Nid",
+				"NIdHubH"
+			],
+			[
+				"Gs",
+				"Gs"
+			],
+			[
+				"Get",
+				"GetVal1"
+			],
+			[
+				"Deg",
+				"DegToCntV"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgro",
+				"background-attachment"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/info.html",
+			"settings":
+			{
+				"buffer_size": 850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 359,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 896,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markdo",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"package control:i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/averyhill/OfficePortal/SageBrush/Scripts/Loading Veg.R",
+		"/Volumes/GoogleDrive/Shared drives/Zombie Forest/Data/Metadata/CALVEG/CALVEG.txt",
+		"/Users/averyhill/Desktop/Call Kaye",
+		"/Volumes/GoogleDrive/Shared drives/Zombie Forest/Data/VegCode_Dictionary/CWHR_SPECIES.csv",
+		"/Volumes/GoogleDrive/Shared drives/Zombie Forest/Data/Metadata/CALVEG/CWHR_SPECIES.tsv",
+		"/Users/averyhill/.bash_profile",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/RHole_PostReview/Scripts/1-Analysis/2-migration_vec_agreement.R",
+		"/Users/averyhill/Desktop/OfficePortalSync",
+		"/Users/averyhill/Desktop/call_Hayduke",
+		"/Users/averyhill/Desktop/musicSync",
+		"/Users/averyhill/OfficePortal/ZombieForests/.gitignore",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/RHole/RBatch",
+		"/Users/averyhill/Desktop/HaydukeInstaller.sh",
+		"/Users/averyhill/Desktop/OfficePortalSync copy",
+		"/Volumes/GoogleDrive/Shared drives/Zombie Forest/Data/Metadata/Weislander/Weislander.txt",
+		"/Volumes/GoogleDrive/Shared drives/Zombie Forest/Data/Metadata/CALVEG.txt",
+		"/Users/averyhill/Desktop/Shotluck/completeQuestions.txt",
+		"/Users/averyhill/Desktop/Shotluck/qPicker.py",
+		"/Users/averyhill/Desktop/wiighMe.py",
+		"/Users/averyhill/Desktop/call_mpd",
+		"/Users/averyhill/.mpd/mpd.conf",
+		"/Users/averyhill/.ncmpcpp/config",
+		"/Users/averyhill/Desktop/Conservation Site/_assets/scss/utils/_helpers-grid.scss",
+		"/Users/averyhill/Desktop/Conservation Site/about.md",
+		"/Users/averyhill/Desktop/Conservation Site/symposium.md",
+		"/Users/averyhill/Desktop/Conservation Site/_includes/navigation.html",
+		"/Users/averyhill/Desktop/Conservation Site/_layouts/symposium.html",
+		"/Users/averyhill/Desktop/Conservation Site/_layouts/default.html",
+		"/Users/averyhill/Desktop/Conservation Site/_layouts/info.html",
+		"/Users/averyhill/Desktop/Conservation Site/index.md",
+		"/Users/averyhill/Desktop/Conservation Site/_includes/head.html",
+		"/Users/averyhill/Desktop/Conservation Site/_layouts/about.html",
+		"/Users/averyhill/Desktop/Conservation Site/_config.yml",
+		"/Users/averyhill/Desktop/Conservation Site/index.html",
+		"/Users/averyhill/Desktop/Wrapper Site/_config.yml",
+		"/Users/averyhill/Desktop/Wrapper Site/_includes/navigation.html",
+		"/Users/averyhill/Desktop/Wrapper Site/_data/navigation.yml",
+		"/Users/averyhill/Desktop/Conservation Site/_layouts/compress.html",
+		"/Users/averyhill/Desktop/Conservation Site/README.md",
+		"/Users/averyhill/Desktop/Conservation Site/_sass/main.scss",
+		"/Users/averyhill/Desktop/Wrapper Site/_includes/social.html",
+		"/Users/averyhill/Desktop/Wrapper Site/_assets/scss/utils/_helpers-grid.scss",
+		"/Users/averyhill/Desktop/Wrapper Site/_layouts/default.html",
+		"/Users/averyhill/Desktop/Wrapper Site/_includes/footer.html",
+		"/Users/averyhill/Desktop/Wrapper Site/_layouts/info.html",
+		"/Users/averyhill/Desktop/Wrapper Site/projects.html",
+		"/Users/averyhill/Desktop/Wrapper Site/research.html",
+		"/Users/averyhill/Desktop/Wrapper Site/about.html",
+		"/Users/averyhill/Desktop/Wrapper Site/resources.html",
+		"/Users/averyhill/Desktop/Wrapper Site/_layouts/page.html",
+		"/Users/averyhill/Desktop/Ella_Site/index.html",
+		"/Users/averyhill/Desktop/CS106b/Lectures/Code09/Combinations/src/Combinations.cpp",
+		"/Users/averyhill/Desktop/CS106b/Lectures/Code09/ShrinkableWords/src/ShrinkableWords.cpp",
+		"/Users/averyhill/Desktop/CS106b/Assignment 1/Assignment 1/src/OnlyConnect.cpp",
+		"/Users/averyhill/Desktop/CS106b/Assignment 2/Assignment 2/src/YouGotHufflepuff.cpp",
+		"/Users/averyhill/Desktop/response.txt",
+		"/Users/averyhill/Desktop/eh.txt",
+		"/Users/averyhill/OfficePortal/Commons/CALVEGSierraEVT/README.txt",
+		"/Users/averyhill/OfficePortal/Weislander/Rhole/ChapMap/ChapShow.py",
+		"/Users/averyhill/Desktop/bio.txt",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMapPack copy/PicMap.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMapPack copy/setup.py",
+		"/Users/averyhill/duncan_site/_config.yml",
+		"/Users/averyhill/duncan_site/_site/index.html",
+		"/Users/averyhill/duncan_site/_posts/2018-04-17-copper-kitten.md",
+		"/Users/averyhill/duncan_site/CNAME",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/assets/js/pig.min.js",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/_plugins/gallery.rb",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/_posts/2018-04-17-copper-kitten.md",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/_layouts/default.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/_layouts/home.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/_layouts/page.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/_layouts/post.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/_includes/header.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/DadSite/gallerybuilder.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/PicMap.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/Gravefinder/grave_map.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/Gravefinder/Run From Beginning",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/Gravefinder/PicMap.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/PicMapRetryJS.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMapPack/PicMap.spec",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/PicMapJS.py",
+		"/Users/averyhill/Desktop/Scripts/Bash Shortcuts/ReEnable iTunes Backups",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/2-Data_Presentation/species_summary.Rmd",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/2-Data_Presentation/plotting_functions.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/2-Data_Presentation/full_summary.Rmd",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/2-Data_Presentation/Figures.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/2-Data_Presentation/0-post_analysis.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/SlopeFireCorrelation.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/LookingforColinearity.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/2-migration_vec_agreement.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/1.2-centroid_analysis.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/1.1.2-broennimann_functions.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/1.1-broennimann2012_adapted.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/1-climate_migration.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/0.1-spatial_data_prep.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/0-primary_analysis.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/1.2-PCA_analysis.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/0-Data_Prep/occurrence_data_prep.R",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/0-Data_Prep/climate_raster_prep.R",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/ElluvMap/Run From Beginning",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/ElluvMap/Show Map",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/Run From Beginning",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMapWeb/Run From Beginning",
+		"/Users/averyhill/OfficePortal/ClimateMismatch/Publishable Repo/Scripts/1-Analysis/PCARingLeader.R",
+		"/Users/averyhill/Desktop/32663c7f66836edc0a7e17c739b1ffe2200b80e0/4f/4f98687d8ab0d6d1a371110e6b7300f6e465bef2-wal",
+		"/Users/averyhill/Desktop/DataBrick_CornerStoneSYNC",
+		"/Users/averyhill/.Rprofile",
+		"/Users/averyhill/Desktop/OfficePortal/Weislander/Rhole/ChapMap/ChapShow.py",
+		"/Users/averyhill/Desktop/DataPrepforJords.R",
+		"/Users/averyhill/Desktop/GraphForJordana.R",
+		"/Users/averyhill/Desktop/Show Files",
+		"/Users/averyhill/Desktop/OfficePortal/Misc/PaloAltoHighQuestions.txt",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMapWeb/requirements.txt",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMapWeb/Procfile",
+		"/Library/Frameworks/R.framework/Versions/3.5/Resources/etc/.Rprofile",
+		"/Users/averyhill/Desktop/WebPush",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/Femail/mgrab.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/Femail/test.py",
+		"/Users/averyhill/Desktop/OfficePortal/Weislander/Rhole/PointViewer.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/PointViewer.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/Show Map.sh",
+		"/Users/averyhill/Desktop/Circle won't be broken",
+		"/Users/averyhill/Desktop/Abel Sync",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/PicMap/Run",
+		"/Volumes/DataBrick/Elysium/Documents /O yr friends/An Poem",
+		"/Volumes/DataBrick/Elysium/Documents /O yr friends/Forts.txt",
+		"/Users/averyhill/Desktop/Scripts/Bash Shortcuts/Disable iTunes Backups"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/info.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Code.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

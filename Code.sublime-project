@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "."
+		}
+	]
+}
