@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Contact
-image: /assets/images/storefront.jpg
+image: /assets/images/storefront.JPG
 ---
 #### Social Media
 We are most active on our [instagram page](https://www.instagram.com/boundtogetherbookssf/)
