@@ -336,6 +336,16 @@
 			}
 		},
 		{
+			"contents": "Searching 114 files for \"Conservation\" (regex)\n\n/Users/averyhill/Desktop/Websites/BoundTogether Site/_config.yml:\n    9  title: Home\n   10  description: >\n   11:   Society of Conservation Biology Website\n   12  url: https://boundtogetherbookssf.github.io\n   13  \n\n/Users/averyhill/Desktop/Websites/BoundTogether Site/_site/404.html:\n    1: <!DOCTYPE html><html lang=\"en\"><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Page Not Found | Home</title><meta name=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"name\" content=\"Bound Together Bookstore Website\"><meta itemprop=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"image\" content=\"\"><meta property=\"og:url\" content=\"http://localhost:4000/404\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:title\" content=\"Page Not Found | Home\"><meta property=\"og:site_name\" content=\"Home\"><meta property=\"og:description\" content=\"Society of Conservation Biology Website \"><meta property=\"og:image\" content=\"\"><meta name=\"twitter:url\" content=\"http://localhost:4000/404\"><meta name=\"twitter:card\" content=\"summary\"><meta name=\"twitter:title\" content=\"Page Not Found | Home\"><meta name=\"twitter:site\" content=\"Home\"><meta name=\"twitter:description\" content=\"Society of Conservation Biology Website \"><meta property=\"twitter:image\" content=\"\"><link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/images/favicon.ico\"><link rel=\"stylesheet\" href=\"/assets/css/app.min.css\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"Home\" href=\"/feed.xml\"><link rel=\"canonical\" href=\"/404\"></head><body id=\"page-not-found\" class=\"default-layout\"><header class=\"header\"> <a class=\"header__title\" href=\"http://localhost:4000/\">Home</a><nav><ul class=\"header__list\"><li><a href=\"https://www.biblio.com/bookstore/bound-together-bookstore-san-francisco\" target=\"_blank\">Online Store</a></li><li><a href=\"/about\">About</a></li><li><a href=\"/contact\">Contact</a></li></ul></nav></header><main class=\"💈\"><section class=\"mast section-padding--double\"><div class=\"grid-small\"><h2>404</h2><p class=\"mast__text\">This page does not exist.</p></div></section></main><script src=\"/assets/js/app.min.js\"></script></body></html>\n    2    \n\n/Users/averyhill/Desktop/Websites/BoundTogether Site/_site/index.html:\n    1: <!DOCTYPE html><html lang=\"en\"><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Bound Together Anarchist Bookstore | Home</title><meta name=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"name\" content=\"Bound Together Bookstore Website\"><meta itemprop=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"image\" content=\"http://localhost:4000/assets/images/Books.jpeg\"><meta property=\"og:url\" content=\"http://localhost:4000/\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:title\" content=\"Bound Together Anarchist Bookstore | Home\"><meta property=\"og:site_name\" content=\"Home\"><meta property=\"og:description\" content=\"Society of Conservation Biology Website \"><meta property=\"og:image\" content=\"http://localhost:4000/assets/images/Books.jpeg\"><meta name=\"twitter:url\" content=\"http://localhost:4000/\"><meta name=\"twitter:card\" content=\"summary\"><meta name=\"twitter:title\" content=\"Bound Together Anarchist Bookstore | Home\"><meta name=\"twitter:site\" content=\"Home\"><meta name=\"twitter:description\" content=\"Society of Conservation Biology Website \"><meta property=\"twitter:image\" content=\"http://localhost:4000/assets/images/Books.jpeg\"><link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/images/favicon.ico\"><link rel=\"stylesheet\" href=\"/assets/css/app.min.css\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"Home\" href=\"/feed.xml\"><link rel=\"canonical\" href=\"/\"></head><body id=\"bound-together-anarchist-bookstore\" class=\"info-layout\"><header class=\"header\"> <a class=\"header__title\" href=\"http://localhost:4000/\">Home</a><nav><ul class=\"header__list\"><li><a href=\"https://www.biblio.com/bookstore/bound-together-bookstore-san-francisco\" target=\"_blank\">Online Store</a></li><li><a href=\"/about\">About</a></li><li><a href=\"/contact\">Contact</a></li></ul></nav></header><main class=\"💈\"><section class=\"post\"><div><div style=\"position:relative\"><div style=\"width:100%; height:300px; display:table; background-image:url(/assets/images/Books.jpeg);background-size: cover; background-position: center;\"><h2 style=\"height:50px; float:center; margin-left:40px;text-align:center; display: table-cell; vertical-align: middle; \"> <font color=\"white\" size=\"80px\" style=\"background-color:#000000; padding-left:1%; padding-right:1%;border-radius:25px; \">Bound Together Anarchist Bookstore</font></h2></div></div><div class=\"post__content section-padding\"><div class=\"grid\"><div id=\"markdown\"><p>Bound Together Bookstore is an Anarchist collective-run bookstore featuring radical literature and events. We are located on unceded <a href=\"http://www.ramaytush.com\" target=\"_blank\">Ramaytush (Yelamu) Ohlone</a> Land, in what is now known as San Francisco’s Haight Ashbury district. Bus lines 43, 33, 37, 71, and 6 all stop nearby. We’ve been in the Haight since 1976 and at our present location since May 1st, 1983.</p><p>Bound Together Bookstore collective members started The Prisoners’ Literature Project more than 30 years ago, which helps provide incarcerated people with literature. Visit the <a href=\"https://www.prisonlit.org/about/\">Prisoners Literature Project</a> to find out more about PLP and how you can provide support. You can also stop by Bound Together to purchase certain books where all revenue goes to PLP.</p><p> </p><hr /></div></div></div></div></section></main><script src=\"/assets/js/app.min.js\"></script></body></html>\n    2    \n\n/Users/averyhill/Desktop/Websites/BoundTogether Site/_site/about/index.html:\n    1: <!DOCTYPE html><html lang=\"en\"><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>About | Home</title><meta name=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"name\" content=\"Bound Together Bookstore Website\"><meta itemprop=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"image\" content=\"http://localhost:4000/assets/images/skyline.JPG\"><meta property=\"og:url\" content=\"http://localhost:4000/about/\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:title\" content=\"About | Home\"><meta property=\"og:site_name\" content=\"Home\"><meta property=\"og:description\" content=\"Society of Conservation Biology Website \"><meta property=\"og:image\" content=\"http://localhost:4000/assets/images/skyline.JPG\"><meta name=\"twitter:url\" content=\"http://localhost:4000/about/\"><meta name=\"twitter:card\" content=\"summary\"><meta name=\"twitter:title\" content=\"About | Home\"><meta name=\"twitter:site\" content=\"Home\"><meta name=\"twitter:description\" content=\"Society of Conservation Biology Website \"><meta property=\"twitter:image\" content=\"http://localhost:4000/assets/images/skyline.JPG\"><link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/images/favicon.ico\"><link rel=\"stylesheet\" href=\"/assets/css/app.min.css\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"Home\" href=\"/feed.xml\"><link rel=\"canonical\" href=\"/about/\"></head><body id=\"about\" class=\"about-layout\"><header class=\"header\"> <a class=\"header__title\" href=\"http://localhost:4000/\">Home</a><nav><ul class=\"header__list\"><li><a href=\"https://www.biblio.com/bookstore/bound-together-bookstore-san-francisco\" target=\"_blank\">Online Store</a></li><li><a href=\"/about\">About</a></li><li><a href=\"/contact\">Contact</a></li></ul></nav></header><main class=\"💈\"><section class=\"post\"><div><div class=\"post__header section-padding--half\" style=\"width:100%;display: flex; justify-content: center; flex-wrap: wrap; \"> <img src=\"/assets/images/skyline.JPG\" style=\"height:100px;width:100px; border-radius: 50%; float:right; \"><h2 style=\" float:left; margin-left:5%;text-align:center;font-size: 30px;position:relative; margin-top:1em\"> About</h2></div><div class=\"post__content section-padding\"><div class=\"grid\"><div id=\"markdown\"><p>We are a volunteer-run Anarchist Bookstore collective located on Haight Street in SF, CA. We are open most days of the week, but times are variable. Calling the store is the best way to determine whether or not we are open. If you are interested in volunteering, please call for more information.  </p><p> </p><h3 id=\"history\">History</h3><p>Coming soon</p></div></div></div></div></div></section></main><script src=\"/assets/js/app.min.js\"></script></body></html>\n    2    \n\n/Users/averyhill/Desktop/Websites/BoundTogether Site/_site/contact/index.html:\n    1: <!DOCTYPE html><html lang=\"en\"><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Contact | Home</title><meta name=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"name\" content=\"Bound Together Bookstore Website\"><meta itemprop=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"image\" content=\"http://localhost:4000/assets/images/storefront.JPG\"><meta property=\"og:url\" content=\"http://localhost:4000/contact/\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:title\" content=\"Contact | Home\"><meta property=\"og:site_name\" content=\"Home\"><meta property=\"og:description\" content=\"Society of Conservation Biology Website \"><meta property=\"og:image\" content=\"http://localhost:4000/assets/images/storefront.JPG\"><meta name=\"twitter:url\" content=\"http://localhost:4000/contact/\"><meta name=\"twitter:card\" content=\"summary\"><meta name=\"twitter:title\" content=\"Contact | Home\"><meta name=\"twitter:site\" content=\"Home\"><meta name=\"twitter:description\" content=\"Society of Conservation Biology Website \"><meta property=\"twitter:image\" content=\"http://localhost:4000/assets/images/storefront.JPG\"><link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/images/favicon.ico\"><link rel=\"stylesheet\" href=\"/assets/css/app.min.css\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"Home\" href=\"/feed.xml\"><link rel=\"canonical\" href=\"/contact/\"></head><body id=\"contact\" class=\"about-layout\"><header class=\"header\"> <a class=\"header__title\" href=\"http://localhost:4000/\">Home</a><nav><ul class=\"header__list\"><li><a href=\"https://www.biblio.com/bookstore/bound-together-bookstore-san-francisco\" target=\"_blank\">Online Store</a></li><li><a href=\"/about\">About</a></li><li><a href=\"/contact\">Contact</a></li></ul></nav></header><main class=\"💈\"><section class=\"post\"><div><div class=\"post__header section-padding--half\" style=\"width:100%;display: flex; justify-content: center; flex-wrap: wrap; \"> <img src=\"/assets/images/storefront.JPG\" style=\"height:100px;width:100px; border-radius: 50%; float:right; \"><h2 style=\" float:left; margin-left:5%;text-align:center;font-size: 30px;position:relative; margin-top:1em\"> Contact</h2></div><div class=\"post__content section-padding\"><div class=\"grid\"><div id=\"markdown\"><h4 id=\"social-media\">Social Media</h4><p>We are most active on our <a href=\"https://www.instagram.com/boundtogetherbookssf/\">instagram page</a></p><h4 id=\"phone\">Phone</h4><p>(415) 431-8355</p><h4 id=\"location\">Location</h4><iframe width=\"425\" height=\"350\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=-122.44599580764772%2C37.769521055765615%2C-122.44350135326387%2C37.77086527260537&amp;layer=mapnik&amp;marker=37.770193167240016%2C-122.44474858045578\" style=\"border: 1px solid black\"></iframe><p><br /><small><a href=\"https://www.openstreetmap.org/?mlat=37.77019&amp;mlon=-122.44475#map=19/37.77019/-122.44475\">View Larger Map</a></small>  </p></div></div></div></div></div></section></main><script src=\"/assets/js/app.min.js\"></script></body></html>\n    2    \n\n/Users/averyhill/Desktop/Websites/BoundTogether Site/_site/symposium/index.html:\n    1: <!DOCTYPE html><html lang=\"en\"><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Bound Together Collective | Home</title><meta name=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"name\" content=\"Bound Together Bookstore Website\"><meta itemprop=\"description\" content=\"Society of Conservation Biology Website \"><meta itemprop=\"image\" content=\"http://localhost:4000/assets/images/calochortus.jpeg\"><meta property=\"og:url\" content=\"http://localhost:4000/symposium/\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:title\" content=\"2020 Bay Area Conservation Biology Symposium | Home\"><meta property=\"og:site_name\" content=\"Home\"><meta property=\"og:description\" content=\"Society of Conservation Biology Website \"><meta property=\"og:image\" content=\"http://localhost:4000/assets/images/calochortus.jpeg\"><meta name=\"twitter:url\" content=\"http://localhost:4000/symposium/\"><meta name=\"twitter:card\" content=\"summary\"><meta name=\"twitter:title\" content=\"2020 Bay Area Conservation Biology Symposium | Home\"><meta name=\"twitter:site\" content=\"Home\"><meta name=\"twitter:description\" content=\"Society of Conservation Biology Website \"><meta property=\"twitter:image\" content=\"http://localhost:4000/assets/images/calochortus.jpeg\"><link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/images/favicon.ico\"><link rel=\"stylesheet\" href=\"/assets/css/app.min.css\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"Home\" href=\"/feed.xml\"><link rel=\"canonical\" href=\"/symposium/\"></head><body id=\"2020-bay-area-conservation-biology-symposium\" class=\"symposium-layout\"><header class=\"header\"> <a class=\"header__title\" href=\"http://localhost:4000/\">Home</a><nav><ul class=\"header__list\"><li><a href=\"https://www.biblio.com/bookstore/bound-together-bookstore-san-francisco\" target=\"_blank\">Online Store</a></li><li><a href=\"/about\">About</a></li><li><a href=\"/contact\">Contact</a></li></ul></nav></header><main class=\"💈\"><section class=\"post\"><div><div class=\"post__header section-padding--half\" style=\"width:100%;display: flex; justify-content: center; flex-wrap: wrap; \"> <img src=\"/assets/images/calochortus.jpeg\" style=\"height:100px;width:100px; border-radius: 50%; float:right; \"><h2 style=\" float:left; margin-left:5%;text-align:center;font-size: 30px;position:relative; margin-top:2%\"> 2020 Bay Area Conservation Biology Symposium</h2></div><div class=\"post__content section-padding\"><div class=\"grid\"><div id=\"markdown\"><p>Welcome to the 2020 Bay Area Conservation Biology Symposium, hosted by the Stanford Chapter of the Society for Conservation Biology!</p><p>Where: <strong>Stanford University</strong></p><p>When: <strong>Saturday May 9, 2020</strong></p><p>The Bay Area Conservation Biology Symposium brings together conservation scientists, practitioners, and supporters from across the Bay Area to share pioneering research, forge new partnerships, and strengthen the local conservation community.</p><p>For the first time, we’re hosting a session with Stanford’s Program for Conservation Genomics (PCG) as part of the symposium. This session will be devoted to creating a sense of community among Bay Area conservationists working with genomic tools, and to aide in developing collaborations. You can express interest in the PCG session on the abstract form below.</p><p><strong>Abstracts:</strong> We are now accepting abstracts for posters, lightning talks, and full-length presentations as well as ideas for workshop and panel topics! If you are submitting an abstract or just want to express interest in attending, please fill out <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSffHj1H2Z3bzZOaIWIOtA-mlXshEKVeagZe1nD6BZGhPZCPaw/viewform\" title=\"Abstract Form\">this form</a>. Abstracts are due by April 3rd.</p><p><strong>Registration</strong> fees will be as follows: $10 for undergraduates, $15 for graduate students, $20 for postdocs, and $25 for faculty and professionals. If the cost is prohibitive, please contact us (mviteri@stanford.edu or sredondo@stanford.edu). We want this to be an accessible event for all! Keep an eye out for our registration email which will come out in the next few weeks.</p></div></div></div></div></section></main><script src=\"/assets/js/app.min.js\"></script></body></html>\n    2    \n\n32 matches across 6 files\n\n\nSearching 113 files for \"Conservation\" (regex)\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 16684,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
 			"file": "_layouts/about.html",
 			"settings":
 			{
@@ -375,7 +385,7 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 1314,
+				"buffer_size": 1308,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -558,13 +568,14 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
 		"height": 101.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -572,6 +583,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Conservation",
 			"  "
 		],
 		"highlight": false,
@@ -590,7 +602,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -618,7 +630,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -646,7 +658,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -674,7 +686,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -702,11 +714,182 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16684,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										175,
+										187
+									],
+									[
+										595,
+										607
+									],
+									[
+										740,
+										752
+									],
+									[
+										1063,
+										1075
+									],
+									[
+										1389,
+										1401
+									],
+									[
+										2686,
+										2698
+									],
+									[
+										2831,
+										2843
+									],
+									[
+										3217,
+										3229
+									],
+									[
+										3606,
+										3618
+									],
+									[
+										6270,
+										6282
+									],
+									[
+										6415,
+										6427
+									],
+									[
+										6779,
+										6791
+									],
+									[
+										7146,
+										7158
+									],
+									[
+										9178,
+										9190
+									],
+									[
+										9323,
+										9335
+									],
+									[
+										9694,
+										9706
+									],
+									[
+										10068,
+										10080
+									],
+									[
+										12497,
+										12509
+									],
+									[
+										12642,
+										12654
+									],
+									[
+										12918,
+										12930
+									],
+									[
+										13054,
+										13066
+									],
+									[
+										13336,
+										13348
+									],
+									[
+										13469,
+										13481
+									],
+									[
+										13870,
+										13882
+									],
+									[
+										14663,
+										14675
+									],
+									[
+										14816,
+										14828
+									],
+									[
+										14898,
+										14910
+									],
+									[
+										15039,
+										15051
+									],
+									[
+										15086,
+										15098
+									],
+									[
+										15245,
+										15257
+									],
+									[
+										15347,
+										15359
+									],
+									[
+										15478,
+										15490
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								16627,
+								16627
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4125.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "_layouts/about.html",
 					"semi_transient": false,
 					"settings":
@@ -730,11 +913,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "about.md",
 					"semi_transient": false,
 					"settings":
@@ -758,11 +941,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "contact.md",
 					"semi_transient": false,
 					"settings":
@@ -786,11 +969,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "_includes/footer.html",
 					"semi_transient": false,
 					"settings":
@@ -814,24 +997,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1314,
+						"buffer_size": 1308,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								282,
-								282
+								224,
+								224
 							]
 						],
 						"settings":
@@ -842,7 +1025,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
